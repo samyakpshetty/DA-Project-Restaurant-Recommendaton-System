@@ -1,4 +1,14 @@
 # DA-Project-Restaurant-Recommendaton-System
+Team :
+
+PES2UG20CS306      -     SAMPREET A PATIL 
+
+PES2UG20CS307      -     SAMYAK P SHETTY
+
+PES2UG20CS321      -     SHAIK MOHAMMED JEELAN
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
 Building a Restaurant recommendation system using a public dataset
 
 I have uploaded the EDA for the Restaurant Dataset.
